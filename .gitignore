@@ -330,3 +330,14 @@ ASALocalRun/
 .Rproj.user
 
 **.env
+
+# Claude
+.claude/
+.worktrees/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test results
+*.received.*
